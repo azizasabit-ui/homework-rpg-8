@@ -1,8 +1,6 @@
 package com.narxoz.rpg.tower;
 
-/**
- * Holds the outcome of a completed tower climb.
- */
+
 public class TowerRunResult {
 
     private final int floorsCleared;
